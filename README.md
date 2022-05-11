@@ -21,8 +21,8 @@
 7.Slider
 
 
-**Forms
-**
+**Forms**
+
 
 8.Lorem Ipsum Generator
 
@@ -43,8 +43,8 @@
 13.Stripe Submenus
 
 
-**useReducer and useContext
-**
+**useReducer and useContext**
+
 
 14.Cart
 
