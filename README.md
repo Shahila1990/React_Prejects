@@ -1,12 +1,12 @@
 # React_Prejects
-Corresponding Tutorial Topics
+**Corresponding Tutorial Topics**
 
-useState
+**useState**
 
 1.Birthday Reminder
 
 
-useEffect and Conditional Rendering
+**useEffect and Conditional Rendering**
 
 2.Tours
 
@@ -21,7 +21,8 @@ useEffect and Conditional Rendering
 7.Slider
 
 
-Forms
+**Forms
+**
 
 8.Lorem Ipsum Generator
 
@@ -30,23 +31,24 @@ Forms
 10.Grocery Bud
 
 
-useRef
+**useRef**
 
 11.Navbar
 
 
-useContext
+**useContext**
 
 12.Modal And Sidebar
 
 13.Stripe Submenus
 
 
-useReducer and useContext
+**useReducer and useContext
+**
 
 14.Cart
 
 
-React Router and useCallback
+**React Router and useCallback**
 
 15.Cocktails
